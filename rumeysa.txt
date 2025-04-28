@@ -1,10 +1,10 @@
-AUTOLEASING
+AUTOLEASING - Anforderungssystem
 
 Ziele:
 - Autoverwaltung
 - Kundendatenverwaltung
 - Zahlungen
--dsfghjkl
+
 Funktionen:
 - Kunden anlegen, bearbeiten
 - Autos hinzufügen, bearbeiten
