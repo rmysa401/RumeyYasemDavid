@@ -1,1 +1,17 @@
-hiiii wyooyoyooy
+AUTOLEASING
+
+Ziele:
+- Autoverwaltung
+- Kundendatenverwaltung
+- Zahlungen
+
+Funktionen:
+- Kunden anlegen, bearbeiten
+- Autos hinzufügen, bearbeiten
+- Verleihe erstellen
+- Zahlungen erfassen
+
+Tabellen:
+- Kunde (K_ID, Nachname, Vorname, Geschlecht, Geburtsjahr, E-Mail)
+- Auto (A_ID, Marke, Erscheinungsjahr, Nummer, Preis)
+- Mieten (M_ID, Mietdatum, Rückgabedatum, K_ID, A_ID)
